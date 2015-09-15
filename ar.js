@@ -12,8 +12,8 @@ moot.language = {
   custom_path1: 'Custom path',
   custom_path: 'Enter custom path',
   invalid_path: 'Invalid custom path',
-  from: 'From',
-  to: 'To',
+  from: 'من',
+  to: 'إلى',
 
   retire: 'Retire',
   retire_title: 'Retire thread',
